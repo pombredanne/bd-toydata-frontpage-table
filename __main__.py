@@ -36,5 +36,7 @@ Bar(label='Voting Activity',
 Table(label='Top Entries',
       size=(12, 6),
       color=2,
+      csv_export=True,
+      json_export=True,
       data=list(table_data()),
       chart={'Weight': 'bar'})
