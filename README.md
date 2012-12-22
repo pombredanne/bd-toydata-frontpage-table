@@ -1,2 +1,2 @@
-bd-toydata-frontpage-table   [ ![Bitdeli](https://d38jwvt3lv6c1n.cloudfront.net/bd_badge.png) ](http://bitdeli.com "Bitdeli")
+bd-toydata-frontpage-table   [ ![Bitdeli](https://d38jwvt3lv6c1n.cloudfront.net/bd_badge.png) ](http://bitdeli.com "Bitdeli") [![Bitdeli Badge](https://d38jwvt3lv6c1n.cloudfront.net/tuulos/bd-toydata-frontpage-table/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ==========================
